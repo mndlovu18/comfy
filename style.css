@@ -1,0 +1,45 @@
+*{
+	box-sizing: border-box;
+
+}
+ 
+header {
+	color:aliceblue;
+	font-family: 'Galada', cursive;
+}
+
+.images{
+
+    float: left;
+	margin-top: 30px;
+	
+
+}
+body {
+  background-image: url(image/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.description {
+    color:aliceblue;
+	max-width: 1000px;
+	float:left;
+	padding-left: 20px;
+	padding-top: 50px;
+}
+
+.row {
+	font-family: 'Lato', sans-serif;
+	max-width: 1500px;
+	clear: both;
+	backface-visibility: hidden;
+	
+}
+
+.description h1 {
+	margin-top: 0;
+}
+
+
